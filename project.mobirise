@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "piyushbatra",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 36,
     "versionPublish": "4.7.2",
@@ -491,7 +491,7 @@
               "padding-bottom": "1.5rem"
             },
             "H1": {
-              "color": "#232323",
+              "color": "#ffffff",
               "text-align": "center"
             },
             "H5": {
@@ -938,6 +938,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#333333"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_name": "header5",
@@ -1376,7 +1379,7 @@
               "background-image": "url(@bg-value)"
             },
             "B": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff"
@@ -1821,7 +1824,7 @@
               "background-image": "url(@bg-value)"
             },
             "B": {
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_name": "header5",
@@ -2260,7 +2263,7 @@
               "background-image": "url(@bg-value)"
             },
             "B": {
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_name": "header5",
@@ -2705,7 +2708,7 @@
               "color": "#232323"
             },
             "B": {
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_name": "header5",
